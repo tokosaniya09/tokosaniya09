@@ -34,7 +34,6 @@ I'm a passionate **Frontend Developer**, building intuitive and delightful user 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="40" height="40" title="Supabase"/>
-  <img src="https://avatars.githubusercontent.com/u/80498652?s=200&v=4" width="40" height="40" title="Qdrant"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
 </p>
 
