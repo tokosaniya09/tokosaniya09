@@ -13,6 +13,17 @@ I'm a passionate **Frontend Developer**, building intuitive and delightful user 
 **Databases**: PostgreSQL, MongoDB  
 **Other Tools**: Git, GitHub, Supabase, Qdrant, Docker
 
+### 🧰 Tech I Work With
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
+
+
 ### 🌐 Let's Connect
 - 💬 Ask me about frontend development or building full-stack apps
 - 📫 Reach me at: [tokosaniya09@gmail.com](mailto:tokosaniya09@gmail.com)
