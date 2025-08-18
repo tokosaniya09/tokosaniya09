@@ -42,8 +42,3 @@ I'm a passionate **Frontend Developer**, building intuitive and delightful user 
 - 📫 Reach me at: [tokosaniya09@gmail.com](mailto:tokosaniya09@gmail.com)  
 - 🧑‍💻 Portfolio https://tokosaniya09.github.io/Portfolio_TokoSaniya/
 
----
-
-> “Code is not just instructions to a machine; it's an experience for the user.”
-
-Thanks for visiting! 😊
