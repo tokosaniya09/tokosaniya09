@@ -40,7 +40,7 @@ I'm a passionate **Frontend Developer**, building intuitive and delightful user 
 ### 🌐 Let's Connect
 - 💬 Ask me about frontend development or building full-stack apps  
 - 📫 Reach me at: [tokosaniya09@gmail.com](mailto:tokosaniya09@gmail.com)  
-- 🧑‍💻 Portfolio (coming soon...)
+- 🧑‍💻 Portfolio https://tokosaniya09.github.io/Portfolio_TokoSaniya/
 
 ---
 
