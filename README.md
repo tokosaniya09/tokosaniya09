@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Toko!
 
-I'm a passionate **Frontend Developer**, building intuitive and delightful user interfaces that blend design with functionality.
+I'm a passionate **Full Stack Developer**, building intuitive and delightful user interfaces that blend design with functionality.
 
 ### 🚀 What I'm up to
 - 🔭 Currently working on some exciting full-stack projects  
